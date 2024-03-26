@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "first script"
+echo "edit script"
