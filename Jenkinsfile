@@ -1,0 +1,3 @@
+pipeline {
+    test1
+}
